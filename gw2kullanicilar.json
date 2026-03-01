@@ -1,1 +1,10 @@
-deneme
+[
+  {
+    "KullaniciAdi": "admin",
+    "Eposta": "admin@example.com",
+    "Sifre": "12345",
+    "GuvenlikSorusu": "İlk evcil hayvanınızın adı?",
+    "GuvenlikCevabi": "Pamuk",
+    "KayitTarihi": "02.03.2026 02:10"
+  }
+]
